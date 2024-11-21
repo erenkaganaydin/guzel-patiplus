@@ -11,6 +11,10 @@
 <x-feature-component />
 <x-happy-customer-section />
 <x-team-section />
+<x-testimonial-section />
+<x-contact-section />
+<x-blog-section />
+<x-subscribe-section />
 
 
 @endsection
